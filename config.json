@@ -1,0 +1,17 @@
+{
+  "ownerNumber":  ["6285882135288@s.whatsapp.net","6283848177521@s.whatsapp.net"],
+  "botName": "Hikachuu :3",
+  "packname" : "Hikachuu :3",
+  "author" : "Hikaa",
+  "Prefix" : "Multi",
+  "sessionName": "botindo",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 15
+  }
+}
